@@ -5,7 +5,7 @@
 🤯 C# Enthusiast <br>
 😎 Test Automation Engineer<br>
 ✔️ Software Quality Advocate<br>
-✌️ Dog Lover
+🐾 Proud Dog Parent x2
 
 
 [![Facebook](https://img.shields.io/badge/-Facebook-00B2FF?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/taki.gyulyan/)
